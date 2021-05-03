@@ -12,6 +12,6 @@ while True:
         print(f'{sp * randint(0,7)}{s}', end='')
         time.sleep(0.02)
         sys.stdout.flush()
-    print('\n'*randint(0,3), end='')
+    print('\n'*randint(0,6), end='')
     sys.stdout.flush()
 
