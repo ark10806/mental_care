@@ -1,6 +1,9 @@
 # mental_care
 ```
-python3 mental_basasak.py
-```
+python mental_basasak.py
+python cir.py
 
-<img width="80%" src="http://210.111.178.136/mental.gif"/>
+```
+<img width="100%" src="http://pred.ga/Ryan.gif"/>
+<img width="80%" src="http://pred.ga/mental.gif"/>
+
