@@ -4,7 +4,7 @@ python mental_basasak.py
 python cir.py
 
 ```
-<img width="100%" src="http://pred.ga/Ryan.gif"></img>  
+<img width="100%" src="http://ark10806.iptime.org/Ryan.gif"></img>  
 
 # Optional Setting
 <img width="60%" src="https://user-images.githubusercontent.com/30382262/125070335-c793ed00-e0f2-11eb-9bba-8e05f606bee7.png"></img>
